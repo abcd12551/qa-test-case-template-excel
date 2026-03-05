@@ -1,0 +1,3 @@
+Test Case ID,Feature,Test Scenario,Test Steps,Expected Result,Actual Result,Status
+TC-001,Login,Valid login,"1. Open login page 2. Enter valid credentials 3. Click Login",User logs in successfully,,Not Run
+TC-002,Login,Invalid password,"1. Open login page 2. Enter invalid password 3. Click Login",Error message is shown,,Not Run
