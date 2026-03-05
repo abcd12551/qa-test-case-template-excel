@@ -34,7 +34,7 @@ Located here:
 
 ## Screenshot
 
-![Test Case Screenshot](screenshots/testcase.png)
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/a8f81d1f-b433-435a-a1ac-8b053c84505c" />
 
 ---
 
@@ -48,7 +48,7 @@ The full bundle includes **9 professional QA templates** used in real projects:
 • Test Cases  
 • Bug Tracker  
 • RTM  
-• Sprint Tracker  
+• Sprint Tracker 
 • API Checklist  
 
 Download the full toolkit here:
